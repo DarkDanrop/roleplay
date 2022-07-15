@@ -2,6 +2,8 @@
 
 Simples e eficiente? Só sair escrevendo e markdownzando?
 
+[Vamos para a segunda pagina?]{https://darkdanrop.github.io/roleplay/page-01)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
