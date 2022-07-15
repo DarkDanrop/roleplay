@@ -2,7 +2,7 @@
 
 Simples e eficiente? Só sair escrevendo e markdownzando?
 
-[Vamos para a segunda pagina?]{https://darkdanrop.github.io/roleplay/page-01)
+[Vamos para a segunda pagina?](https://darkdanrop.github.io/roleplay/page-01)
 
 ### Markdown
 
