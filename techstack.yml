@@ -1,0 +1,20 @@
+repo_name: DarkDanrop/roleplay
+report_id: 3bc7b67f8c50073799f208f66de38fec
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:01:13+00:00'
+requested_by: DarkDanrop
+provider: github
+branch: gh-pages
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DarkDanrop/roleplay
+  detection_source: Repo Metadata
